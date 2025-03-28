@@ -9,7 +9,7 @@
       "LeElectriX_FlashTool/1.0.0": {
         "dependencies": {
           "CommunityToolkit.Mvvm": "8.3.2",
-          "EasyDbc": "1.0.0",
+          "EasyDbc": "1.0.1",
           "HandyControls": "3.5.3",
           "LeElectriX_FlashTool.Core": "1.0.0",
           "MahApps.Metro": "2.4.10",
@@ -61,14 +61,14 @@
           }
         }
       },
-      "EasyDbc/1.0.0": {
+      "EasyDbc/1.0.1": {
         "dependencies": {
           "NPOI": "2.7.2"
         },
         "runtime": {
           "lib/net8.0/EasyDbc.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
           }
         }
       },
@@ -766,12 +766,12 @@
       "path": "controlzex/4.4.0",
       "hashPath": "controlzex.4.4.0.nupkg.sha512"
     },
-    "EasyDbc/1.0.0": {
+    "EasyDbc/1.0.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-+Yj++Ah7UMive/LWY8kkxmh+D+VXORHFdQn5rtXTEeXZjBkVC/qEoC7zuz52gl3/qiJRQ5Z4QW5xJf76W7yfgA==",
-      "path": "easydbc/1.0.0",
-      "hashPath": "easydbc.1.0.0.nupkg.sha512"
+      "sha512": "sha512-AZRbfagaWY2S0ccXBJ9UWDvXW4z09roKfnrz0gG0Mstqq/LwDpJDW7znGhwLfn/rfVxU9Xwk4QzLA5KU/7LHyA==",
+      "path": "easydbc/1.0.1",
+      "hashPath": "easydbc.1.0.1.nupkg.sha512"
     },
     "Enums.NET/4.0.1": {
       "type": "package",
