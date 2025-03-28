@@ -347,10 +347,5 @@ The following image shows the Trace content that can be parsed by PCAN.
 
 ### Respositary URL See [releases](https://rb-svn1.de.bosch.com/svn/c113_ELMOCN_Master/branches/01_Toolchain/04_CSharp/03_LeElectriX_FlashTool/LeElectriX_FlashTool/bin/Release).
 
-## Feedback
-
-Please submit bugs and feature requests to the contacts below.
-
-[Contact me ](mailto:qi.wu2@cn.bosch.com)
 
 ---
